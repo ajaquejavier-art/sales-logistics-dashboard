@@ -1,4 +1,3 @@
-# sales-logistics-dashboard
 # 📦 Sales & Logistics Dashboard - Mercado Libre
 
 Caso de estudio de Business Intelligence enfocado en el análisis de la cadena de suministro, rendimiento de entregas y control de KPIs operativos.
